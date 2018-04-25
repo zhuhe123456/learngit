@@ -6,4 +6,4 @@ three
 four
 five
 six
-master seven
+new seven
